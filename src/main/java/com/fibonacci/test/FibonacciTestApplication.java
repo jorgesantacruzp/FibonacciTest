@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/*
+@author jorge.santacruz
+*/
 public class FibonacciTestApplication {
 
     public List<Integer> printFibonacciSerie(int input) {
